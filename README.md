@@ -26,7 +26,8 @@
 
 ### Contactos
 **Correo:** contact.dario.info@gmail.com    
-**Linkedin:** [Link](https://www.linkedin.com/in/dario-martinez-597486291/  "Link")
+**LinkedIn:** [Link](https://www.linkedin.com/in/dario-martinez-597486291/  "LinkedIn")  
+**Portfolio:** [Link](https://dariomvg.github.io/portfolio/ "Portfolio")
 
 
 
