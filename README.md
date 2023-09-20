@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hola, Soy Dario Martinez  👋
+### Desarrollador Front-end , con 1 año y medio de experiencia con proyectos personales
 
-<!--
-**dariomvg/dariomvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estoy buscando poder demostrar lo que sé, y dispuesto a seguir aprendiendo**
 
-Here are some ideas to get you started:
+**Actualmente estoy aprendiendo a como escribir mejor codigo con javaScript  y con React para que sea lo mas óptimo y escalable posible, aprendiendo más sobre la performance de una aplicación**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Estoy buscando colaborar en un equipo de trabajo profesional, con proyecto escalable y con metas a futuro**
+
+## Tecnologias que domino: 
+1. HTML
+2. CSS 
+3. JavaScript
+4. React 
+5. Sass
+6. Bootstrap
+7. Git
+8. GitHub
+9. Netlify 
+10. Terminal
+ 
+## Cada que creo un proyecto me fijo en que sea:
+* Optimo
+* Legible
+* Escalable
+
+### Contactos
+**Correo:** contact.dario.info@gmail.com    
+**Linkedin:** [Link](https://www.linkedin.com/in/dario-martinez-597486291/  "Link")
+
+
+
+
