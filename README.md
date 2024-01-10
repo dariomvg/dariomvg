@@ -1,21 +1,26 @@
 # Hola, Soy Dario Martinez  👋
 
-### Desarrollador Front-end , con 1 año y medio de experiencia con proyectos personales
+### Desarrollador web Front-end hace 2 años como autodidacta. con ingles técnico.
 
-**Actualmente estoy aprendiendo back-end y desarrollando proyectos para ir ganándo cada vez más experiencia, trabajando con react, node y SQL, más express y mySQL**
+**Próximo a estudiar next.js, astro, tailwind**
 
-**Estoy buscando trabajar en un equipo de trabajo profesional. para avanzar y seguír aprendiendo**
+**Tengo los conocimientos técnicos y adaptabilidad para integrarme a un equipo de trabajo para aportar, aprender y avanzar**
 
 ## Tecnologias que domíno: 
-1. HTML
-2. CSS 
+1. HTML5
+2. CSS3 
 3. JavaScript
-4. React 
+4. React.js 
 5. Sass
 6. Git
 7. GitHub
 8. Netlify 
 9. Terminal
+10. NPM
+11. Node.js
+12. Express
+13. SQL
+14. MySQL
  
 ### Contactos
 **Correo:** contact.dario.info@gmail.com    
