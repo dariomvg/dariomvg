@@ -1,6 +1,6 @@
 # Hola, Soy Dario Martinez  👋💻🔋📚
 ## Desarrollador web fullstack autodidacta desde Argentina  
-<img src="https://i.imgur.com/NguJTCw.jpg">
+<img src="https://i.imgur.com/fyo4Wlw.jpg">
 
 
 ### Sobre mí
