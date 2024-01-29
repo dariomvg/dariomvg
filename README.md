@@ -9,7 +9,7 @@
 - 📚 Desarrolador Fullstack
 - 🔋 Estoy actualizado pero me gusta especializarme en un stack
   
-#### "Tengo los conocimientos técnicos y adaptabilidad para integrarme a un equipo de trabajo para poder aportar, aprender y avanzar..."              
+#### "Tengo los conocimientos técnicos y flexibilidad para integrarme a un equipo de trabajo para poder aportar, aprender y avanzar..."              
  
 **Tecnologias que domíno:**   
 
