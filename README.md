@@ -5,13 +5,13 @@
 
 ### Sobre mí
 
-- 💻 Trabajo con el stack MERN(MySQL, Express, React, Node)
-- 📚 Desarrolador Fullstack
-- 🔋 Estoy actualizado pero me gusta especializarme en un stack
+- 💻 Trabajo con el stack MERN(MySQL, Express, React, Node).
+- 📚 Desarrolador Fullstack.
+- 🔋 Me mantengo actualizado pero me gusta especializarme en un stack.
   
 #### "Tengo los conocimientos técnicos y flexibilidad para integrarme a un equipo de trabajo para poder aportar, aprender y avanzar..."              
  
-**Tecnologias que domíno:**   
+**Tecnologías que domino:**   
 
 `HTML5`
 `CSS3`
