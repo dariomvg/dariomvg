@@ -1,13 +1,13 @@
-# Hola, Soy Dario Martinez  👋💻🔋📚
-## Desarrollador web fullstack autodidacta desde Argentina  
-<img src="https://i.imgur.com/fyo4Wlw.jpg">
+# Hola!!👋 Soy Dario Martinez💻📚  
+## Desarrollador Web Front-end. 
 
+<img src="https://i.imgur.com/fyo4Wlw.jpg">
 
 ### Sobre mí
 
-- 💻 Trabajo con el stack MERN(MySQL, Express, React, Node).
+- 💻 Trabajo con | MySQL,PostgreSQL  | Node.js, Express  | React, Next.js  | Astro  | Javascript |
 - 📚 Desarrollador Front y back end, pero enfocado en el Front-end.
-- 🔋 actualizado.
+- 🔋  Actualizado.
   
 #### "Desarrollador Front-end y back-end, enfocado en el front. desarrollo interfaces web óptimas e intuitivas."              
  
