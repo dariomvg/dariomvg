@@ -6,10 +6,10 @@
 ### Sobre mí
 
 - 💻 Trabajo con el stack MERN(MySQL, Express, React, Node).
-- 📚 Desarrolador Fullstack.
-- 🔋 Me mantengo actualizado pero me gusta especializarme en un stack.
+- 📚 Desarrollador Front y back end, pero enfocado en el Front-end.
+- 🔋 actualizado.
   
-#### "Tengo los conocimientos técnicos y flexibilidad para integrarme a un equipo de trabajo para poder aportar, aprender y avanzar..."              
+#### "Desarrollador Front-end y back-end, enfocado en el front. desarrollo interfaces web óptimas e intuitivas."              
  
 **Tecnologías que domino:**   
 
@@ -17,14 +17,18 @@
 `CSS3`
 `JavaScript`
 `React.js`
+`Next.js`
+`Astro`
 `Sass` 
 `Git`
 `GitHub`
-`Terminal`
+`Vercel`
+`Render.com`
+`Bash`
 `NPM`
 `Node.js`
-` Express`
-`SQL`
+`Express`
+`PostgreSQL`
 `MySQL` 
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -110,14 +114,6 @@
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -134,17 +130,8 @@
       height="40"
     />
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-
 
 ### Contactos
 **Correo:** contact.dario.info@gmail.com    
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dario-martinez-597486291/)  
-**Portfolio:** [Portfolio](https://dariomvg.github.io/portfolio/)
+**Portfolio:** [Portfolio](https://dario-martinez.vercel.app/)
