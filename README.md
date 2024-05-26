@@ -1,7 +1,7 @@
 # Dario Martinez💻📚  
 ## Desarrollador Web Front-end. 
 
-<img src="https://i.imgur.com/fyo4Wlw.jpg">
+<img src="https://i.imgur.com/ZhBSaG5.png" title="source: imgur.com" />
 
 - 💻 Trabajo con | MySQL,PostgreSQL  | Node.js, Express  | React, Next.js  | Astro  | Javascript |
 - 📚 Desarrollador Front y back end, pero enfocado en el Front-end.
