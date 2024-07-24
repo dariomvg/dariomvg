@@ -3,8 +3,8 @@
 
 <img src="https://i.imgur.com/ZhBSaG5.png" title="source: imgur.com" />
 
-- 💻 Trabajo con | MySQL,PostgreSQL  | Node.js, Express  | React, Next.js  | Astro  | Javascript |
-- 📚 Desarrollador Front y back end, pero enfocado en el Front-end.
+- 💻 Trabajo con HTML, CSS, JavaScript, PostgreSQL, Node.js, Express, React, Next.js, Astro 
+- 📚 Desarrollador Front-end y Back-end, enfocado en el Front-end.
 - 🔋  Actualizado.
   
 #### "Desarrollador web Front-end, desarrollando interfaces web óptimas e intuitivas..."              
