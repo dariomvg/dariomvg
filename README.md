@@ -17,6 +17,4 @@
 
   
 ### Contactos
-**Correo:** contact.dario.info@gmail.com    
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dariomvg)  
-**Portfolio:** [Portfolio](https://portfolio-dariomvg.vercel.app/)
+**Correo:** contact.dario.info@gmail.com
